@@ -56,7 +56,7 @@ class SearchForm extends Component {
 
              <input type="submit"></input>
 
-             <h1>Hello {this.state.searchInput}</h1>
+             <h1>You search: {this.state.searchInput}</h1>
 
          </form>
          )
